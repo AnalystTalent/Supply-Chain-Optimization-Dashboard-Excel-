@@ -6,6 +6,9 @@ This project focuses on analyzing and optimizing supply chain operations using M
 Objective
 To identify inefficiencies in the supply chain and provide actionable insights to improve cost efficiency, reduce delays, and optimize overall performance.
 
+Source of data 
+Kaggle
+
 Tools & Techniques
 - Microsoft Excel  
 - Pivot Tables  
